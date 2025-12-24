@@ -31,7 +31,6 @@ Dữ liệu đo được sẽ gửi về máy tính thông qua **UART (USB)** ho
 
 - 📡 **Đa kết nối**  
   - USB (UART)
-  - Bluetooth **HC-05**
 
 ---
 
