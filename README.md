@@ -1,10 +1,6 @@
 # 🔍 Hệ Thống LiDAR Mini Quét 2D  
 **(STM32F401RE & VL53L0X)**
 
-> *(Thay thế bằng ảnh thực tế của dự án)*
-
----
-
 ## 📌 Giới thiệu
 
 Đây là mã nguồn cho đồ án **“Thiết kế và chế tạo hệ thống quét khoảng cách 2D (LiDAR Mini)”**.  
