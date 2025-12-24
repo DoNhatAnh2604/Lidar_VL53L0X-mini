@@ -81,8 +81,5 @@ Dữ liệu đo được sẽ gửi về máy tính thông qua **UART (USB)** ho
 | VCC | 5V | Nguồn nuôi |
 | GND | GND | Mass chung |
 
----
-
-## 💻 Cấu trúc thư mục
 
 
