@@ -1,8 +1,6 @@
 # 🔍 Hệ Thống LiDAR Mini Quét 2D  
 **(STM32 Nucleo F401RE & VL53L0X)**  
 
-> 📷 *(Thay thế bằng ảnh thực tế của dự án)*
-
 ## 📌 Giới thiệu
 Đây là mã nguồn cho đồ án **“Thiết kế và chế tạo hệ thống quét khoảng cách 2D (LiDAR mini)”**.  
 Hệ thống sử dụng cảm biến **Time-of-Flight (ToF) VL53L0X** gắn trên **Servo MG90** để quét môi trường xung quanh trong mặt phẳng 2D.
@@ -53,5 +51,3 @@ Dự án phù hợp cho nghiên cứu cơ bản về **LiDAR**, tiền đề cho
 - RX → **PA3**
 
 ---
-
-## 💻 Cấu trúc thư mục
