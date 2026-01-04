@@ -103,7 +103,7 @@ def analyze_object(group):
     avg_theta = (theta1 + theta2) / 2
     avg_degree = np.degrees(avg_theta)
     
-    position = "TRAI" if avg_degree <= 90 else "PHAI"
+    position = "PHAI" if avg_degree <= 90 else "TRAI"
     
     # Chỉ báo cáo nếu vật thể đủ lớn (lọc nhiễu)
     if width_mm >= MIN_OBJECT_SIZE:
