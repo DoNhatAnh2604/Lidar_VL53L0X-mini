@@ -1,0 +1,18 @@
+# ==== STM32 / CubeIDE ====
+Debug/
+Release/
+*.o
+*.elf
+*.map
+*.list
+*.su
+*.cyclo
+
+# ==== Eclipse ====
+.settings/
+*.launch
+
+# ==== OS ====
+.DS_Store
+Thumbs.db
+
